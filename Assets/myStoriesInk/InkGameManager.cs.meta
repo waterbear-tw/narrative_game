@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f044d13563b84d66a95f01c1d619740
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inkJSONAsset: {fileID: 4900000, guid: efcec8f5a43f24195bd0afd226d5dc7c, type: 3}
+  - canvas: {instanceID: 0}
+  - textPrefab: {fileID: 7823946773955641017, guid: c30ac9a8886ed406992af536577f885f, type: 3}
+  - buttonPrefab: {fileID: 7217200463846865337, guid: e4b77b1d7a72e4277837605ed99f5ae3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
